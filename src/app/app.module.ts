@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
 
 import { NgxLoadersModule } from '@ngx-lite/loaders';
+
 import { NgHttpLoaderModule } from 'ng-http-loader';
 
 
