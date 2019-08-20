@@ -11,7 +11,7 @@ import { NgHttpLoaderModule } from 'ng-http-loader';
 
 
 @NgModule({
-  imports:      [ BrowserModule, FormsModule ],
+  imports:      [ BrowserModule, FormsModule, NgxLoadersModule ],
   declarations: [ AppComponent, HelloComponent ],
   bootstrap:    [ AppComponent ]
 })

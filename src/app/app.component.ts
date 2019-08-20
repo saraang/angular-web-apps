@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 
+import { NgxLoadersModule } from '@ngx-lite/loaders';
+
 @Component({
   selector: 'my-app',
   templateUrl: './app.component.html',
